@@ -1,3 +1,8 @@
+
+Simple counter made in react passing props. useEffect to render counter set to 1 second intervals, useState used to save counter on initial render as 0
+
+Saved local: eigth-app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
